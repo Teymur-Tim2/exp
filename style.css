@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+.kurs {
+  font-family: roboto, slab;
+  font-weight: bold;
+  font-size: 55px;
+}
+.obsu2 {
+  display: flex;
+  width: 1192px;
+  height: 396px;
+  font-family: roboto, slab;
+}
+.obsu {
+  margin-left: 248px;
+  font-family: roboto, slab;
+  margin-top: 298px;
+}
+.first-div {
+  width: 662px;
+  height: 396px;
+  font-size: 24px;
+  font-family: roboto;
+}
+.imgceki {
+  margin-left: 200px;
+}
